@@ -1,0 +1,41 @@
+_repo: La-Guerre-du-Feu-Roman-des-ages-farouches_61274
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rosny, J.-H., aîné
+    aliases:
+    - aîné, J.-H. Rosny
+    - Boex, Joseph Henri Honoré
+    - Boex, Joseph-Henri-Honore
+    - Enacryos
+    - Boëx-Borel, J. H.
+    - Boëx, Joseph-Henri-Honoré
+    - Rosny, J.-H., aine
+    birthdate: 1856
+    deathdate: 1940
+    gutenberg_agent_id: '32612'
+    url: http://www.gutenberg.org/2009/agents/32612
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/J.-H._Rosny_a%C3%AEn%C3%A9
+    - https://en.wikipedia.org/wiki/J.-H._Rosny_a%C3%AEn%C3%A9
+description: ''
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR Littérature
+- FR Jeunesse
+gutenberg_issued: '2020-01-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61274'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcc 'PZ'
+- !lcsh 'Prehistoric peoples -- Fiction'
+- !lcsh 'Adventure and adventurers -- Fiction'
+- GITenberg
+title: 'La Guerre du Feu: Roman des âges farouches'
+url: http://www.gutenberg.org/ebooks/61274
